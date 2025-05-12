@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Hudson
 
 <!--
 **Hudson-Haynes/Hudson-Haynes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## I currently am graduating my undergrad at The University of Iowa with a degree in both Finance and Business Analytics and Information Systems. I plan to continue studying at Iowa to complete my Business Analytics Masters Degree with a focus on Finance.
